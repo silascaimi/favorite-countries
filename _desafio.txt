@@ -1,0 +1,10 @@
+Api
+https://restcountries.eu/rest/v2/all
+
+Dados a mostrar
+Nome name
+Bandeira flag
+População population
+id(numericCode)
+
+Mostrar a quantidade de países e total de população na lista da esquerda e direita

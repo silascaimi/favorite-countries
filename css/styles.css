@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin-left: 10px;
+}
+
+.country-conteiner {
+  display: flex;
+}
+
+.country {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.country-list {
+  padding: 5px;
+  /* border: 1px solid grey; */
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.divCountries {
+  margin-top: 20px;
+}
+
+.divElement {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 10px;
+  padding-left: 10px;
+  min-height: 70px;
+  /* min-width: 120px; */
+}
+
+.removeButton {
+  background-color: rgb(221, 58, 58);
+}
+
+.removeButton:hover {
+  background-color: rgb(236, 149, 149);
+}
+
+.flag {
+  margin-left: 10px;
+  max-width: 100px;
+  border: 1px solid black;
+}
+
+.divData {
+  margin-left: 10px;
+}
